@@ -1,6 +1,6 @@
 # Cooperation_structured_pop
 
-This repository provides the python code used to generate Figures in the article "Evolution of cooperation in spatially structured populations with demes on graphs" by Alix Moawad, Alia Abbara and Anne-Florence Bitbol.
+This repository provides the python code to perform simulations in the carrying-capacity model described in the article "Evolution of cooperation in spatially structured populations with demes on graphs" by Alix Moawad, Alia Abbara and Anne-Florence Bitbol.
 
 ## Getting started
 
